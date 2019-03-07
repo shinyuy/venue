@@ -1,3 +1,5 @@
+## The Venue
+
 This is a practice project using React, for upcoming events, and information about like location, price and date.
 
 ## Available Scripts
