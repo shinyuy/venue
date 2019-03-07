@@ -1,9 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a practice project using React, for upcoming events, and information about like location, price and date.
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+To take a look at this project, run the following commands:
+### `git clone https://github.com/shinyuy/venue.git`
+### `cd venue`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br>
